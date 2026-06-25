@@ -8,9 +8,9 @@ When I'm not coding, I'm thinking about entrepreneurship, cross-stitch, or the n
 rida = {
     "university": "UCL — BSc Computer Science",
     "currently":  "IBM CyberFirst Placement (Security)",
-    "interests":  ["cybersecurity", "full-stack", "entrepreneurship", "AI", "Software Development"],
+    "interests":  ["cybersecurity", "full-stack", "systems programming", "AI"],
     "building":   "community platforms & security tools",
-    "learning":   "LLM architectures + graph-based workflows",
+    "learning":   "POSIX shell internals + systems programming",
 }
 ```
 
