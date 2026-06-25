@@ -1,11 +1,3 @@
-<div align="center">
-
-![Header](![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=200&section=header&text=Hi%2C%20I%27m%20Rida&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20UCL%20%7C%20Security%20%26%20Engineering%20%7C%20Builder&descAlignY=58&descSize=16))
-
-</div>
-
----
-
 ### 👩‍💻 About me
 
 I'm a second-year Computer Science student at **University College London**, currently on a cybersecurity placement at **IBM** (DSI team). I care about building things that are useful, secure, and well-crafted — from full-stack platforms to RAG pipelines.
